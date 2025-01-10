@@ -26,7 +26,7 @@ A mobile application built with React Native.
 
 3. Create a `.env` file in the root directory and add your WeatherAPI key:
    ```env
-   EXPO_PUBLIC_API_KEY=weather_api_key
+   WEATHER_API_KEY=weather_api_key
    ```
 
 4. Start the development server:
