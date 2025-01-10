@@ -40,7 +40,3 @@ A mobile application built with React Native.
    - **For development on a physical device**:
      - Install the Expo Go app from the App Store or Play Store.
      - Scan the QR code from the terminal with your device's camera.
-
----
-
-Happy coding! 🌤️
